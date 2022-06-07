@@ -300,44 +300,29 @@ Si esta conectado en paralelo.
 
 ![image](https://user-images.githubusercontent.com/105742149/172433462-0d49941d-4b31-40d4-8fe3-3a10aa1c1da1.png)
 
-**36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. 
-(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM 50 Ω) **
-
 **38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172434613-13f959b7-2605-489d-9b8b-ce428e0ce3ad.png)
 
 **40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
 
-**42. Cierto circuito en paralelo está compuesto por resistores de sólo 1 ⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:** 
-
-**(a) El número de resistores**
-
-**(b) El valor de cada resistor**
- 
-**(c) La corriente en cada rama**
-
-**(d) El voltaje aplicado**
+![20](https://user-images.githubusercontent.com/105742149/172439910-c2555433-a4a9-4ad5-b22e-f911eae6be99.jpeg)
 
 **44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172297688-7b6dccef-6653-4bc0-bbdc-2351637cf38d.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172440024-ad963e65-7409-45dd-a15c-8d7d16aced26.png)
+
 **46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5,55 mA?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172297727-b9360f93-29dc-409f-9857-937f9c4ffe7b.png)
 
-**48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:** 
-
-**(a) 1 y 2**
-
-**(b) 2 y 3**
-
-**(c) 3 y 4**
-
-**(d) 1 y 4**
+![image](https://user-images.githubusercontent.com/105742149/172440190-388d7f93-7c09-4271-bffa-e64870dbb949.png)
 
 ### **4.	Video**
+
+https://youtu.be/rSVlbakc_x0
 
 ### **5.	Conclusiones**
 
