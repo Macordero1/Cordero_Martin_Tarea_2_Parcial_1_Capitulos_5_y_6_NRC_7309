@@ -140,6 +140,8 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/172276278-61f0b833-24a9-4e2b-813a-e81121efc642.png)
 
+![36](https://user-images.githubusercontent.com/105742149/172290674-f650cc3a-4257-472b-b75a-8ffbec713297.jpeg)
+
 **38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.**
 
 ![image](https://user-images.githubusercontent.com/105742149/172276308-676e5c1e-2b37-44fb-b487-f8f68d36dfa4.png)
