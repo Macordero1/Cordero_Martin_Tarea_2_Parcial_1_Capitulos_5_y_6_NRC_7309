@@ -146,6 +146,8 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/172276308-676e5c1e-2b37-44fb-b487-f8f68d36dfa4.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172293471-be386ae0-8a14-4d7e-9838-cb1e7557fc5a.png)
+
 **40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).**
 
 ![image](https://user-images.githubusercontent.com/105742149/172276356-04479ba2-9937-4c43-8d8d-b5160150ccc5.png)
@@ -162,6 +164,8 @@
 
 **50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: (a) I (b) (c) VT El valor de cada resistor**
 
+![image](https://user-images.githubusercontent.com/105742149/172292102-c0d5db3a-7b8a-4cb4-bd2f-7afdf086a74c.png)
+
 **52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172276704-ef888f24-e7a3-4234-874c-44aa750ac0f7.png)
@@ -175,8 +179,11 @@
 **58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.**
 
 **60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1 ⁄2 W.**
+
 **(a) ¿Qué sucedió?** 
+
 **(b) Específicamente, ¿qué debe hacerse para arreglar el problema?** 
+
 **(c) ¿Con qué voltaje ocurrió la falla?**
 
 ### **Capitulo 6**
@@ -184,6 +191,9 @@
 ### **4.	Video**
 
 ### **5.	Conclusiones**
+
+* Entender el funcionamiento de los circuitos y al conocer cuales son los probables fallos de los mismos, se puede emplear para tratar cualquier error que el mismo este presentando.
+* La ley de Ohm junto las leyes de kirchhoff forman parte importante al implementarla en ejercicios de los circuitos planteados, ya sean en serie o en paralelo, dichos postulados estan presentes de manera recurrente en la mayotia de problemas. 
 
 ### **6.	Bibliografía**
 (2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 118-208). PEARSON Prentice Hall.
