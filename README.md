@@ -116,6 +116,8 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/172275901-def0a187-87eb-4464-94f7-7e4336039ea6.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172304902-9afd9b1b-e18a-4e89-9abf-abca2a2c47e6.png)
+
 **28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?**
 
 ![28](https://user-images.githubusercontent.com/105742149/172289771-a48e40e7-ceb1-4bfc-a55c-c8b0deafa6ff.jpeg)
@@ -152,15 +154,25 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/172276356-04479ba2-9937-4c43-8d8d-b5160150ccc5.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172305423-7354db25-afb8-4716-b806-fbc00720b5d5.png)
+
 **42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.**
 
 ![image](https://user-images.githubusercontent.com/105742149/172276584-4fa5f022-3943-4774-ab3a-bd4870bf6a0d.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172306630-70c3feb0-cfe3-4eb8-8167-ab8fec071235.png)
+
 **44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V,**
+
+![image](https://user-images.githubusercontent.com/105742149/172306840-843b5b24-0ad8-4ecd-b026-61e683785c8a.png)
 
 **46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?**
 
+![image](https://user-images.githubusercontent.com/105742149/172307121-058230d9-80ae-45ff-a522-12950415f5c9.png)
+
 **48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
+
+![image](https://user-images.githubusercontent.com/105742149/172307461-82becc9d-f2e6-4126-a042-0b887d9af2b4.png)
 
 **50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: (a) I (b) (c) VT El valor de cada resistor**
 
@@ -170,21 +182,40 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/172276704-ef888f24-e7a3-4234-874c-44aa750ac0f7.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172308645-96507684-d421-489f-be56-7145dd9755b2.png)
+
 **54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172276741-0813e53d-ce0c-4014-a743-52e5300967f5.png)
 
+Puede existir alguna mala conexion, o puede ser la misma fuente de energia que se encuentre con problemas, pero en ese caso no existe caida de voltaje
+
 **56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?**
+
+![image](https://user-images.githubusercontent.com/105742149/172308782-3a50ff8e-e5f8-42bd-8692-f55efe237bcb.png)
+
+La unica corriente que se podria medir es la de R1
 
 **58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.**
 
+Es un problema ocacionado por abertura del circuito, creando interruptores que inconvendrian con sus componentes
+
 **60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1 ⁄2 W.**
+
+![image](https://user-images.githubusercontent.com/105742149/172309360-851c5867-912a-47de-b7d5-bff5ba512eb0.png)
 
 **(a) ¿Qué sucedió?** 
 
+Se genero una apertura en una resistencia
+
 **(b) Específicamente, ¿qué debe hacerse para arreglar el problema?** 
 
+Se tiene que localizar la resistencia que se encuentre abierta, luego con un multimetro tomar mediciones de la misma
+
 **(c) ¿Con qué voltaje ocurrió la falla?**
+
+![image](https://user-images.githubusercontent.com/105742149/172309813-02319959-0c71-4d35-826a-ded0132da994.png)
+
 
 ## **Capitulo 6**
 
