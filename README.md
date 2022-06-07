@@ -276,9 +276,13 @@ Si esta conectado en paralelo.
 
 ![image](https://user-images.githubusercontent.com/105742149/172297199-8a07024f-2425-43ca-b93c-45b96821b544.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172431268-8cd3494c-5a48-4b47-86e2-6b360cf452f1.png)
+
 **28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.**
 
 ![image](https://user-images.githubusercontent.com/105742149/172297341-7b08e056-9938-448a-9c68-5e5995eab0d2.png)
+
+![image](https://user-images.githubusercontent.com/105742149/172431824-ec4c6c6a-88ad-4676-a74a-cda80faf10d8.png)
 
 **30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
 
@@ -292,10 +296,16 @@ Si esta conectado en paralelo.
 
 **34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.**
 
+![image](https://user-images.githubusercontent.com/105742149/172433479-2b9f87df-be24-4ee9-9241-c62062be94d8.png)
+
+![image](https://user-images.githubusercontent.com/105742149/172433462-0d49941d-4b31-40d4-8fe3-3a10aa1c1da1.png)
+
 **36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. 
 (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM 50 Ω) **
 
 **38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
+
+![image](https://user-images.githubusercontent.com/105742149/172434613-13f959b7-2605-489d-9b8b-ce428e0ce3ad.png)
 
 **40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
 
