@@ -192,13 +192,20 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/172296608-b5b73ab3-f1be-4090-93bd-07f593b3c081.png)
 
+Si esta conectado en paralelo.
+
 **4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.**
+
 
 **6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172296655-47554b67-6d4b-4b29-8a2a-9852421e4ff6.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172303556-4f3b1f7f-1564-40f7-96e8-b8ef9d5ff136.png)
+
 **8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/105742149/172303618-c98c30a3-d06f-442a-90d8-097f4c55a436.png)
 
 **10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?**
 
@@ -206,21 +213,33 @@
 
 **14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.**
 
+![image](https://user-images.githubusercontent.com/105742149/172303656-756bfde3-fdd1-4a9a-a28d-e6b25eb8a5b8.png)
+
 **16. Calcule RT en cada uno de los circuitos de la figura 6-70.**
 
 ![image](https://user-images.githubusercontent.com/105742149/172296798-85ee68ed-4d7a-4f24-9570-7dbb570ab8ab.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172303698-b221a0bf-b23b-42f0-9550-be326747be60.png)
+
 **18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
+
+![image](https://user-images.githubusercontent.com/105742149/172303738-c88cc4c9-1691-4491-9fcd-5e869c97eee6.png)
 
 **20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172296856-9d069a3e-8386-4cff-af20-42c3c04a0ce5.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172303764-52b21082-a662-46fb-9b64-ec379276310c.png)
+
 **22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
 
 ![image](https://user-images.githubusercontent.com/105742149/172297125-3bfcbc20-5bd2-40c8-a22b-930f575c47f0.png)
 
+![image](https://user-images.githubusercontent.com/105742149/172303803-134127e9-fe05-41b1-b686-922086943e8f.png)
+
 **24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
+
+![image](https://user-images.githubusercontent.com/105742149/172303826-0eb3b247-d0ed-4610-8f25-7758e63435f1.png)
 
 **26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.**
 
@@ -233,6 +252,8 @@
 **30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
 
 ![image](https://user-images.githubusercontent.com/105742149/172297439-79c2dbf9-9240-4b2a-b80b-6f4bae7026bc.png)
+
+![image](https://user-images.githubusercontent.com/105742149/172303860-82da0ea5-bd01-4603-a2b1-4b10907980e9.png)
 
 **32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?**
 
